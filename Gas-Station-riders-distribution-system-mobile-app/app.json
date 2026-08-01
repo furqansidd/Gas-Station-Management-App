@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Gas Cylinder Manager",
+    "slug": "gas-cylinder-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0F62FE"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gascylinder.manager"
+    },
+    "android": {
+      "package": "com.gascylinder.manager"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0271bb83-e1d7-40da-97e5-4561c972343f"
+      }
+    },
+    "owner": "furqanxidd"
+  }
+}
